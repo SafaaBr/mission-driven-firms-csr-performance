@@ -1,0 +1,5 @@
+feature,spearman_rho,p_value,n
+csr_score,0.06,0.657,58
+bert_sentiment_score,0.106,0.427,58
+log_revenue,0.149,0.317,47
+log_debt,0.022,0.869,57

@@ -1,0 +1,23 @@
+# Analysis (descriptive.py, modeling.py)
+pandas>=2.2
+numpy>=1.26
+openpyxl>=3.1
+matplotlib>=3.8
+scipy>=1.11
+scikit-learn>=1.4
+xgboost>=2.0
+statsmodels>=0.14
+
+# Data collection (src/collection) - requires Google Chrome
+requests
+beautifulsoup4
+unidecode
+selenium
+webdriver-manager
+
+# NLP (src/nlp)
+tqdm
+torch
+transformers
+deep-translator
+vaderSentiment

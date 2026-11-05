@@ -1,0 +1,16 @@
+# Raw reviews, Pappers scrapes and intermediate files (personal content / not redistributable)
+data/interim/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+~$*.xlsx
